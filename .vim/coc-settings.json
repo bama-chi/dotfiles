@@ -1,0 +1,11 @@
+{
+  "suggest.noselect": false,
+  "coc.preferences.formatOnSaveFiletypes": ["python", "json", "yaml"],
+  "python.pythonPath": "python3",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.flake8Enabled": true,
+  "yaml.format.enable": true,
+  "json.format.enable": true,
+  "json.enable": true
+}
